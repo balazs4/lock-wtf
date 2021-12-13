@@ -1,0 +1,8 @@
+{
+  "name": "lock-wtf",
+  "verion": "0.0.0-noversion",
+  "dependencies": {
+    "bft": "1.2.1",
+    "prettier": "2.5.1"
+  }
+}
